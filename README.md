@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mehmmetalii
-- 👀 I’m interested in c# ![image](https://github.com/user-attachments/assets/3e508671-4aa4-482e-a8f1-7becf79321c4)
+- 👀 I’m interested in c# ![image](https://github.com/user-attachments/assets/de5397f1-6bae-4b5d-b60d-ce397b528686)
+
 
 - 🌱 I’m currently learning Java
 
